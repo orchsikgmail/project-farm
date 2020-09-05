@@ -1,0 +1,19 @@
+{
+  "name": "farm002",
+  "displayName": "farm002",
+  "expo": {
+    "name": "farm002",
+    "slug": "farm002",
+    "privacy": "unlisted",
+    "sdkVersion": "37.0.0",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
